@@ -1,6 +1,6 @@
 cask "claudechecker" do
-  version "1.0.9"
-  sha256 "71e450a265bd49245079b44a9a535d7e48e169821816ae6280f209380ab934fb"
+  version "1.1.0"
+  sha256 "9b3520c0384ea46a71333d9da50c801f8f0ea3143d53a52e6ce6c1885e244d2a"
 
   url "https://github.com/superdooper86/claudechecker/releases/download/v#{version}/ClaudeChecker.zip"
   name "ClaudeChecker"
